@@ -30,4 +30,4 @@ Project is created with:
 2. The client program read inventory.csv to receive and display an inventory of generated cards
 
 ## UML Sequence Diagram
-![UML Sequence Diagram](/../main/documentation/Partner%20Program%20UML%20Sequence%20Diagram.png?raw=true)
+![UML Sequence Diagram](https://github.com/anson-poon/OSU-CS-361-Software-Engineering-I-Microservice/blob/main/documentation/Partner%20Program%20UML%20Sequence%20Diagram.png?raw=true)
